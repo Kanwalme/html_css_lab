@@ -1,0 +1,19 @@
+h1{
+    margin: 50px;
+    color: orange;
+    text-align: center; 
+}
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    color: green;
+}
+img{
+ padding-left: 25%;
+}
+.left_nav{
+    width: 5%;
+    position: absolute;
+    bottom: 0;
+   background-color: orange;
+
+}
